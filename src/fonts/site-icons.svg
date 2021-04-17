@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="site-icons" horiz-adv-x="1000" >
+<font-face font-family="site-icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="right-open" unicode="&#xe800;" d="M618 361l-414-415q-11-10-25-10t-25 10l-93 93q-11 11-11 25t11 25l296 297-296 296q-11 11-11 25t11 25l93 93q10 11 25 11t25-11l414-414q10-11 10-25t-10-25z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="left-open" unicode="&#xe801;" d="M654 682l-297-296 297-297q10-10 10-25t-10-25l-93-93q-11-10-25-10t-25 10l-414 415q-11 10-11 25t11 25l414 414q10 11 25 11t25-11l93-93q10-10 10-25t-10-25z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="music" unicode="&#xe802;" d="M857 725v-625q0-28-19-50t-48-33-58-18-53-6-54 6-58 18-48 33-19 50 19 50 48 33 58 18 54 6q58 0 107-22v300l-429-132v-396q0-28-19-50t-48-33-58-18-53-6-54 6-58 18-48 33-19 50 19 50 48 34 58 17 54 6q58 0 107-21v539q0 17 10 32t28 20l464 142q7 3 16 3 22 0 38-16t15-38z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="comment" unicode="&#xe803;" d="M1000 350q0-97-67-179t-182-130-251-48q-39 0-81 4-110-97-257-135-27-8-63-12-10-1-17 5t-10 16v1q-2 2 0 6t1 6 2 5l4 5t4 5 4 5q4 5 17 19t20 22 17 22 18 28 15 33 15 42q-88 50-138 123t-51 157q0 73 40 139t106 114 160 76 194 28q136 0 251-48t182-130 67-179z" horiz-adv-x="1000" />
+
+<glyph glyph-name="wrench" unicode="&#xe804;" d="M214 29q0 14-10 25t-25 10-25-10-11-25 11-25 25-11 25 11 10 25z m360 234l-381-381q-21-20-50-20-29 0-51 20l-59 61q-21 20-21 50 0 29 21 51l380 380q22-55 64-97t97-64z m354 243q0-22-13-59-27-75-92-122t-144-46q-104 0-177 73t-73 177 73 176 177 74q32 0 67-10t60-26q9-6 9-15t-9-16l-163-94v-125l108-60q2 2 44 27t75 45 40 20q8 0 13-5t5-14z" horiz-adv-x="928.6" />
+</font>
+</defs>
+</svg>
